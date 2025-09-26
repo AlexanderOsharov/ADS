@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=120&lines=%F0%9F%92%BB+%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B+%D0%B8+%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B;%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" alt="Алгоритмы и структуры данных" />
 
@@ -41,6 +41,18 @@ git checkout 2025-09-12___ShellSorting
 
 ```text
 git checkout 2025-09-19___QueueAndFloyd
+```
+
+### 📅 [2025-09-26 — Анализ и оптимизация алгоритма поиска максимальной суммы подотрезка](https://github.com/AlexanderOsharov/ADS/tree/2025-09-26___LongFindMaxSum)
+
+> **Задание:** Необходимо исследовать алгоритм поиска максимальной суммы подотрезка фиксированной длины k в массиве чисел.
+> 
+> 🔍 Требуется определить асимптотическую верхнюю границу сложности исходного алгоритма.
+> 
+> 📊 Предложить оптимизацию исходного алгоритма, разработать оптимизированный алгоритм и обосновать его сложность. 
+
+```text
+git checkout 2025-09-26___LongFindMaxSum
 ```
 
 > *"🎨 Этот README создан с любовью к порядку и красоте. Обновляется по мере добавления новых заданий."*
